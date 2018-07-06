@@ -1,5 +1,16 @@
 class Chatty_Student < Student
   
+def hello
+   super
+   puts ""
+ end
   
-  d
+def raise_hand
+  puts "Pick me!"
+end
+  
+
+
+
+
 end  
